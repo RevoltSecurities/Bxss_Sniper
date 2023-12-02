@@ -59,7 +59,7 @@ options:
 #### Method 1:
 
 ```bash
-pip install bxss-sniperpip install bxss-snipe
+pip install bxss-sniper
 
 bxsniper --help
 ```
